@@ -27,9 +27,8 @@ ou
 
 ## Comandos
 
-- `dev`: executa a aplicação em `localhost:3000`
+- `start`: executa a aplicação em `localhost:3000`
 - `build`: cria a versão de compilação de produção
-- `storybook`: executa o storybook em `localhost:6006`
 - `test`: executa jest para testar todos os componentes e páginas
 - `generate`: executa o plop para gerar os arquivos do componente. Ex: `yarn generate Main` ou `npm run generate Main`
 
@@ -64,8 +63,7 @@ or
 
 ## Commands
 
-- `dev`: runs your application on `localhost:3000`
+- `start`: runs your application on `localhost:3000`
 - `build`: creates the production build version
-- `storybook`: runs storybook on `localhost:6006`
 - `test`: runs jest to test all components and pages
 - `generate`: runs plop to generate the component files. Ex: `yarn generate Main` or `npm run generate Main`
